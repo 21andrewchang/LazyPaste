@@ -6,7 +6,7 @@
     <img src="https://github.com/21andrewchang/LazyPaste/blob/main/assets/autofillscript.gif">
 </div>
 
-### Setup
+### 💻 Mac Setup
 
 - Airdrop SSH code from iphone to mac
 - Copy SSH code to clipboard
