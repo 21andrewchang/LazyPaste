@@ -9,6 +9,7 @@
 ### 📱 Iphone Setup
 
 - Create new automation
+- Messages
 
 ### 💻 Mac Setup
 
