@@ -8,6 +8,8 @@
 
 ### 📱 Iphone Setup
 
+- Create new automation
+
 ### 💻 Mac Setup
 
 - Airdrop SSH code from iphone to mac
